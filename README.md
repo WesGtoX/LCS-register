@@ -7,9 +7,9 @@
 
 -----------------
 
-# "Low Complexity System"
+# LCS Register
 
-The system is a customer registration.
+The LCS Register is a customer registration.
 
 Project made for university, Data Structure class.
 
