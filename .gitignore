@@ -1,0 +1,5 @@
+# ignore specifc files
+*.exe
+*.cdr
+
+# ignore folders and directories
